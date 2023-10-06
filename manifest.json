@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Chess - Classic",
+  "description": "Aurora Byte",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Chess - Classic",
+  "name": "Chess:Classic",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Chess - Classic",
+  "short_name": "Chess:Classic",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Chess - Classic",
+      "name": "Chess:Classic",
       "url": "",
       "description": ""
     }
